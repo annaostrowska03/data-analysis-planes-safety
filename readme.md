@@ -10,9 +10,11 @@ This project analyzes aviation safety by examining historical plane crash data. 
 - Identification of high-risk factors contributing to plane crashes
 
 ## Technologies Used
-- **Python** for data processing and analysis
-- **Pandas** for data manipulation
-- **Matplotlib / Seaborn** for visualization
-- **Scikit-learn** for exploratory data modeling (if applicable)
-- **Jupyter Notebook** for interactive analysis
+- R for data processing and analysis
+- data.table for efficient data handling
+- tidyverse and dplyr for data manipulation
+- ggplot2 for visualization
+- leaflet
+- usmap
+- shiny
 
